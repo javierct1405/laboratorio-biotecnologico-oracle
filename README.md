@@ -42,7 +42,7 @@ para automatizar procesos y asegurar la integridad de los datos.
 ```text
 laboratorio-biotecnologico-oracle
 │
-├── assets/
+│
 ├── docs/
 │   └── proyecto-final-oracle11g.pdf
 │
