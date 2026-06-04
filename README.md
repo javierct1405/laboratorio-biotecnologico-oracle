@@ -1,6 +1,13 @@
 <p align="center">
   <img src="banner.png" alt="Laboratorio de Plantas Biotecnológicas">
 </p>
+<p align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle-11g-red)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![PLSQL](https://img.shields.io/badge/PLSQL-Programming-green)
+
+</p>
 
 # Laboratorio de Plantas Biotecnológicas
 
