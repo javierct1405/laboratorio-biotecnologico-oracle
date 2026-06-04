@@ -110,6 +110,15 @@ Durante este proyecto reforcé conocimientos sobre diseño de bases de datos, mo
 PL/SQL y automatización de procesos dentro de Oracle Database.
 
 ---
+## Estado del Proyecto
+
+Proyecto Finalizado
+
+Este proyecto fue desarrollado como parte del Diplomado Oracle 11g de la Universidad Autónoma de Querétaro.
+
+Actualmente no se planean nuevas funcionalidades, pero el repositorio permanecerá disponible como evidencia académica y portafolio profesional.
+
+---
 
 ## Autor
 
