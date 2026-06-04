@@ -50,7 +50,31 @@ laboratorio-biotecnologico-oracle
 ├── README.md
 └── LICENSE
 ```
+---
 
+##  Modelo Entidad-Relación
+
+![Modelo ER](screenshots/modelo-er.png)
+
+---
+
+##  Diseño de Tablas
+
+![Tablas](screenshots/tablas.png)
+
+---
+
+##  Consultas SQL
+
+![Consultas](screenshots/consultas.png)
+
+---
+
+##  Triggers y Automatización
+
+![Triggers](screenshots/triggers.png)
+
+---
 ## Componentes Implementados
 
 - Diseño de Base de Datos Relacional
