@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Laboratorio de Plantas Biotecnológicas">
+</p>
+
 # Laboratorio de Plantas Biotecnológicas
 
 Proyecto desarrollado como parte del Diplomado Oracle 11g de la Universidad Autónoma de Querétaro.
